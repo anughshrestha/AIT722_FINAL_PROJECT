@@ -4,10 +4,10 @@ from mysql.connector import Error
 from nltk.tokenize import word_tokenize
 
 try:
-	connection = mysql.connector.connect(host = 'localhost',
-											database = 'zeus',
-											user = 'root',
-											password = 'Parrot1234',
+	connection = mysql.connector.connect(host = '<removed>',
+											database = '<removed>',
+											user = '<removed>',
+											password = '<removed>',
 											auth_plugin='mysql_native_password')
 
 	if connection.is_connected():
