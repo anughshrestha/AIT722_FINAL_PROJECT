@@ -41,7 +41,7 @@ ii. in the script, insert the username and password to connect to MySQL database
 	i. These html files were used to create the web-based API in flask
 
 ###Flask#####
-1) Navigate to the directory named Flask via command prompt or shell terminal
+1) Navigate to the directory named Flask_Project via command prompt or shell terminal
 2) Execute: python -m venv venv
 3) A directory named venv will be created inside Flask directory
 4) Activating the virtual environment
