@@ -10,13 +10,14 @@ data_set_path = os.getcwd() #the Dataset directory is called data_set_path
 os.chdir(script_dir) #navigates back to the script dir
 
 #make sure the json file is downloaded from https://www.yelp.com/dataset
+#The JSON file has also been shared with you via Mason Drive
 json_source = data_set_path + '\\yelp_academic_dataset_business.json' #make sure the yelp_academic_dataset_business.json file in the data_set_path dir
 
 with open(json_source, 'r', encoding='utf-8') as f: #converts contents of json file into list
 	yelp_business_data = [json.loads(line) for line in f] #stores all the contents of the file to the list named yelp_business_data
 
 #writes the data to csv file named restaurant_categories.csv
-with open('restaurant_categories.csv', 'w', newline='') as f: 
+with open('restaurant_categories.csv', 'w', newline='', encoding='utf-8') as f: 
 	writer = csv.writer(f) #uses the methods from csv module to write to the csv file
 	for business_data in yelp_business_data:
 		categories = str(business_data['categories']) #gets the category of the business
@@ -24,11 +25,18 @@ with open('restaurant_categories.csv', 'w', newline='') as f:
 		#it will write to the csv file only when the category contains the words restaurants or cafe
 		if "restaurants" in categories.lower() or "cafe" in categories.lower(): 
 
-			business_id = business_data['business_id'] #gets the business id
+			business_id = str(business_data['business_id']) #gets the business id
+			name = str(business_data['name'])
+			address = str(business_data['address']) #gets address
+			city = str(business_data['city'])
+			if city == "MontrÃ©al":
+				city = "Montreal"
+			state = str(business_data['state'])
+			zip_code = str(business_data['postal_code'])
 			rating = float(business_data['stars']) #gets the rating
-			latitude = business_data['latitude'] #gets the latitude
-			longitude = business_data['longitude'] #gets the longitude
-			writer.writerow([business_id, categories, rating,latitude, longitude]) #the data into the each row of csv file
+			latitude = str(business_data['latitude']) #gets the latitude
+			longitude = str(business_data['longitude']) #gets the longitude
+			writer.writerow([business_id, categories, name, address, city, state, zip_code, rating,latitude, longitude]) #the data into the each row of csv file
 
 
 

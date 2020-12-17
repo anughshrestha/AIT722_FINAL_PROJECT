@@ -87,7 +87,7 @@ def export_most_common(most_common_categories_freq_dist):
 
 '''
 These are the list of most frequently occuring international restaurant categories that appear in the dataset.
-They were pulled manually from the most_common_categories.csv file
+They were pulled manually from the most_common_categories.csv file and placed in top_categories.txt
 
 Top Restaurants:
 mexican
@@ -102,14 +102,6 @@ vietnamese
 greek
 french
 korean
-caribbean
-latin american
-pakistani
-lebanese
-taiwanese
-filipino
-portuguese
-persian/iranian
 '''
 
 '''

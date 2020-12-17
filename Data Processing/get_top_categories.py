@@ -24,10 +24,10 @@ Purpose: exports the data from top_categories list to a csv file
 '''
 def export_top_categories_to_csv(top_categories):
 
-	with open("restaurant_categories.csv", encoding="utf8") as f: #reads the data from restaurant_categories.csv file
+	with open("restaurant_categories.csv", encoding="utf-8") as f: #reads the data from restaurant_categories.csv file
 		file_row = csv.reader(f, delimiter=",") #uses the reader method from csv module to read the data from csv file and stores it to file_row variable
 
-		with open('top_restaurant_categories_final.csv', 'w', newline='') as f: #writes the data from top_categories to top_restaurant_categories_final.csv
+		with open('top_restaurant_categories_final.csv', 'w', newline='',encoding="utf-8") as f: #writes the data from top_categories to top_restaurant_categories_final.csv
 			writer = csv.writer(f) #uses the writer method from csv module to write to top_restaurant_categories_final.csv
 
 			for row in file_row: #loops through file_row list
@@ -47,7 +47,7 @@ def export_top_categories_to_csv(top_categories):
 				'''
 				for category in categories:
 					if category in top_categories:
-						writer.writerow([row[0], category,row[2],row[3],row[4]])
+						writer.writerow([row[0],category,row[2],row[3],row[4],row[5],row[6],row[7],row[8],row[9]])
 
 '''
 Method: clean_words

@@ -1,0 +1,804 @@
+nightlife,9415
+bars,9011
+fast food,8106
+sandwiches,8064
+pizza,7302
+breakfast & brunch,6225
+burgers,6107
+mexican,5207
+italian,5012
+chinese,4746
+coffee & tea,4367
+chicken wings,3012
+salad,2988
+japanese,2984
+seafood,2753
+sushi bars,2448
+specialty food,2259
+asian fusion,2180
+delis,2079
+caterers,2064
+bakeries,2025
+mediterranean,2012
+desserts,2005
+canadian (new),1992
+barbeque,1987
+sports bars,1970
+steakhouses,1696
+indian,1652
+pubs,1609
+thai,1547
+diners,1485
+middle eastern,1443
+vietnamese,1409
+vegetarian,1297
+beer,1215
+wine & spirits,1215
+cocktail bars,1199
+arts & entertainment,1171
+ice cream & frozen yogurt,1166
+greek,1145
+juice bars & smoothies,1117
+french,1082
+wine bars,1079
+vegan,1037
+korean,1025
+soup,999
+lounges,976
+gluten-free,976
+comfort food,945
+buffets,932
+ethnic food,870
+tacos,862
+hot dogs,835
+food delivery services,811
+tex-mex,794
+halal,725
+food trucks,722
+shopping,718
+chicken shop,712
+caribbean,703
+latin american,662
+grocery,637
+gastropubs,616
+noodles,607
+southern,576
+tapas/small plates,568
+pakistani,515
+bagels,480
+tapas bars,460
+music venues,441
+beer bar,428
+food stands,380
+local flavor,378
+active life,366
+hawaiian,366
+donuts,359
+soul food,358
+fish & chips,344
+dim sum,338
+cajun/creole,328
+ramen,318
+imported food,312
+bubble tea,308
+breweries,307
+creperies,295
+hotels,288
+lebanese,285
+dive bars,283
+street vendors,271
+taiwanese,269
+filipino,264
+portuguese,263
+food court,245
+cheesesteaks,241
+modern european,228
+poutineries,225
+karaoke,225
+tea rooms,221
+meat shops,216
+dance clubs,209
+persian/iranian,208
+poke,207
+spanish,207
+irish,206
+internet cafes,200
+wraps,188
+bistros,185
+health markets,184
+casinos,182
+party & event planning,176
+convenience stores,166
+african,165
+hookah bars,164
+british,162
+falafel,159
+turkish,154
+waffles,149
+hot pot,146
+kosher,146
+afghan,145
+brasseries,144
+arcades,139
+cantonese,133
+local services,126
+patisserie/cake shop,122
+coffee roasteries,118
+peruvian,116
+pasta shops,114
+pan asian,113
+german,112
+automotive,105
+szechuan,104
+delicatessen,104
+kebab,102
+irish pub,102
+brazilian,98
+seafood markets,98
+home services,97
+golf,96
+do-it-yourself food,94
+international grocery,92
+ethiopian,92
+flowers & gifts,91
+shopping centers,90
+butcher,90
+jazz & blues,90
+home & garden,90
+live/raw food,88
+polish,87
+cuban,87
+farmers market,86
+pool halls,86
+chocolatiers & shops,84
+new mexican cuisine,83
+salvadoran,82
+shaved ice,81
+organic stores,81
+cheese shops,80
+fruits & veggies,80
+custom cakes,79
+malaysian,78
+acai bowls,78
+fashion,78
+health & medical,78
+arabian,77
+moroccan,76
+himalayan/nepalese,74
+education,72
+brewpubs,72
+cupcakes,71
+smokehouse,71
+gelato,70
+donairs,68
+professional services,64
+gas stations,62
+russian,62
+bowling,60
+hakka,60
+bed & breakfast,59
+beer gardens,58
+colombian,57
+argentine,56
+performing arts,56
+arts & crafts,55
+fondue,54
+art galleries,53
+belgian,53
+wineries,52
+mongolian,52
+international,51
+books,50
+mags,50
+music & video,50
+day spas,49
+cafeteria,48
+pretzels,47
+personal chefs,47
+festivals,47
+sri lankan,47
+whiskey bars,47
+kids activities,46
+cambodian,46
+florists,45
+wedding planning,45
+adult entertainment,42
+venezuelan,41
+social clubs,40
+teppanyaki,40
+resorts,40
+public services & government,39
+indoor playcentre,39
+hair salons,38
+specialty schools,37
+themed cafes,36
+drugstores,36
+fitness & instruction,35
+dumplings,34
+pets,34
+candy stores,34
+gift shops,33
+cinema,33
+kitchen & bath,33
+puerto rican,33
+laotian,33
+hungarian,33
+amusement parks,33
+singaporean,32
+gay bars,32
+basque,30
+indonesian,30
+real estate,29
+department stores,29
+tours,28
+hong kong style cafe,28
+ukrainian,27
+dinner theater,27
+izakaya,27
+bangladeshi,27
+sporting goods,25
+macarons,25
+cooking classes,24
+south african,24
+community service/non-profit,23
+wigs,23
+cooking schools,22
+nail salons,22
+speakeasies,22
+comedy clubs,22
+pop-up restaurants,22
+egyptian,21
+country clubs,21
+dominican,21
+home decor,21
+women's clothing,20
+furniture stores,20
+cosmetics & beauty supply,20
+playgrounds,19
+tobacco shops,19
+bookstores,19
+ethnic grocery,19
+recreation centers,19
+couriers & delivery services,18
+haitian,18
+tabletop games,18
+syrian,18
+nutritionists,18
+empanadas,17
+appliances,17
+contractors,17
+coffee & tea supplies,17
+religious organizations,17
+beverage store,17
+massage,16
+wholesalers,16
+wholesale stores,16
+tiki bars,16
+eatertainment,15
+sports clubs,15
+hobby shops,15
+parks,14
+piano bars,14
+japanese curry,14
+scandinavian,14
+museums,13
+art classes,13
+wine tasting room,13
+burmese,13
+landmarks & historical buildings,12
+conveyor belt sushi,12
+swimming pools,12
+lan centers,12
+supper clubs,12
+libraries,12
+pet services,12
+shanghainese,12
+australian,11
+home cleaning,11
+airports,11
+appliances & repair,11
+armenian,11
+country dance halls,11
+pharmacy,11
+auto repair,11
+herbs & spices,11
+gyms,11
+public markets,11
+vitamins & supplements,11
+ethical grocery,11
+videos & video game rental,11
+accessories,11
+stadiums & arenas,10
+toy stores,10
+yoga,10
+doctors,10
+dry cleaning & laundry,10
+men's clothing,10
+djs,10
+colleges & universities,10
+outlet stores,10
+yelp events,10
+hair removal,10
+skin care,10
+bartenders,10
+shaved snow,9
+shared office spaces,9
+pet stores,9
+mini golf,9
+vinyl records,9
+art schools,9
+musicians,9
+weight loss centers,9
+sports wear,9
+pancakes,9
+barbers,9
+party equipment rentals,9
+personal shopping,9
+discount store,9
+party supplies,9
+food tours,9
+coffeeshops,9
+jewelry,9
+champagne bars,9
+cabaret,9
+restaurant supplies,8
+amateur sports teams,8
+popcorn shops,8
+austrian,8
+car wash,8
+transportation,8
+churches,8
+honduran,8
+laser tag,8
+real estate services,8
+sugar shacks,8
+financial services,8
+it services & computer repair,7
+plumbing,7
+travel services,7
+hair stylists,7
+animal shelters,7
+outdoor furniture stores,7
+bar crawl,7
+antiques,7
+laundry services,7
+massage therapy,7
+strip clubs,7
+interior design,7
+computers,6
+cideries,6
+beaches,6
+team building activities,6
+tennis,6
+electronics,6
+airport lounges,6
+pet adoption,6
+grilling equipment,6
+pool & billiards,6
+nurseries & gardening,6
+photography stores & services,6
+czech,6
+trinidadian,6
+video game stores,6
+mattresses,6
+shoe stores,6
+distilleries,6
+thrift stores,5
+tuscan,5
+auto parts & supplies,5
+leisure centers,5
+pop-up shops,5
+business consulting,5
+bike repair/maintenance,5
+bikes,5
+escape games,5
+trainers,5
+golf lessons,5
+limos,5
+hospitals,5
+hair extensions,5
+printing services,5
+towing,5
+souvenir shops,5
+used,5
+vintage & consignment,5
+movers,5
+mobile phones,5
+flooring,5
+marketing,5
+electricians,5
+waxing,5
+paint & sip,5
+iberian,5
+pub food,5
+eyelash service,5
+dentists,5
+ticket sales,5
+real estate agents,5
+community centers,5
+cards & stationery,5
+window washing,4
+office cleaning,4
+slovakian,4
+zoos,4
+photographers,4
+car dealers,4
+heating & air conditioning/hvac,4
+horse racing,4
+roofing,4
+tanning,4
+game meat,4
+medical centers,4
+medical spas,4
+cannabis dispensaries,4
+scottish,4
+soccer,4
+cultural center,4
+laser hair removal,4
+tires,4
+hostels,4
+masonry/concrete,4
+bike rentals,4
+laundromat,4
+uzbek,4
+pet sitting,4
+sicilian,4
+auto glass services,4
+tasting classes,4
+life coach,4
+internet service providers,3
+summer camps,3
+tiling,3
+photo booth rentals,3
+skating rinks,3
+veterinarians,3
+security systems,3
+body shops,3
+auto customization,3
+mass media,3
+adult education,3
+martial arts,3
+virtual reality centers,3
+lighting fixtures & equipment,3
+art supplies,3
+optometrists,3
+physical therapy,3
+personal assistants,3
+nicaraguan,3
+fireplace services,3
+botanical gardens,3
+office equipment,3
+makeup artists,3
+lawyers,3
+bankruptcy law,3
+apartments,3
+guest houses,3
+vape shops,3
+bridal,3
+spray tanning,3
+tax services,3
+building supplies,3
+farms,3
+cigar bars,3
+supernatural readings,3
+music & dvds,3
+race tracks,3
+special education,3
+handyman,3
+general dentistry,3
+eyebrow services,3
+kombucha,3
+nail technicians,3
+meditation centers,3
+cannabis clinics,3
+walking tours,3
+hotel bar,2
+reunion,2
+carpet cleaning,2
+customized merchandise,2
+trampoline parks,2
+wedding chapels,2
+septic services,2
+campgrounds,2
+windows installation,2
+swiss food,2
+furniture reupholstery,2
+auto detailing,2
+rv repair,2
+eritrean,2
+used bookstore,2
+historical tours,2
+pet groomers,2
+pilates,2
+ice delivery,2
+furniture rental,2
+dance studios,2
+mailbox centers,2
+lakes,2
+boating,2
+pool & hot tub service,2
+olive oil,2
+head shops,2
+post offices,2
+rock climbing,2
+horseback riding,2
+self storage,2
+packing services,2
+medical cannabis referrals,2
+go karts,2
+guamanian,2
+floral designers,2
+blow dry/out services,2
+honey,2
+flea markets,2
+eyewear & opticians,2
+water stores,2
+teeth whitening,2
+health coach,2
+landscaping,2
+gardeners,2
+accountants,2
+boat charters,2
+wine tours,2
+csa,2
+funeral services & cemeteries,2
+knife sharpening,2
+commercial real estate,2
+pressure washers,2
+vacation rentals,2
+local fish stores,2
+climbing,2
+comic books,2
+banks & credit unions,2
+polynesian,2
+rv parks,2
+senegalese,2
+chiropractors,2
+mauritius,2
+hainan,2
+pita,2
+public transportation,2
+bingo halls,2
+air duct cleaning,2
+art museums,2
+reflexology,2
+ski resorts,2
+vehicle wraps,2
+car window tinting,2
+wine tasting classes,2
+rotisserie chicken,2
+oil change stations,2
+counseling & mental health,2
+screen printing,2
+musical instruments & teachers,2
+beach bars,2
+preschools,2
+bounce house rentals,2
+aquariums,2
+rehabilitation center,2
+tattoo,2
+piercing,2
+cheese tasting classes,2
+psychics,2
+acupuncture,2
+beer garden,2
+trophy shops,2
+web design,2
+balloon services,2
+cosmetic dentists,2
+newspapers & magazines,2
+windshield installation & repair,2
+car rental,2
+session photography,2
+event photography,2
+paint-your-own pottery,2
+dog walkers,2
+airport shuttles,2
+party bus rentals,2
+alternative medicine,2
+magicians,2
+signature cuisine,1
+home organization,1
+tempura,1
+tonkatsu,1
+water heater installation/repair,1
+nudist,1
+hiking,1
+visitor centers,1
+milkshake bars,1
+siding,1
+food banks,1
+auto upholstery,1
+motorcycle repair,1
+keys & locksmiths,1
+mosques,1
+soba,1
+brazilian jiu-jitsu,1
+christmas trees,1
+holiday decorations,1
+bocce ball,1
+town car service,1
+cardiologists,1
+emergency medicine,1
+pediatricians,1
+children's clothing,1
+fur clothing,1
+furniture repair,1
+audio/visual equipment rental,1
+calabrian,1
+eastern european,1
+ophthalmologists,1
+baby gear & furniture,1
+archery,1
+shipping centers,1
+boxing,1
+tattoo removal,1
+land surveying,1
+grill services,1
+unofficial yelp events,1
+herbal shops,1
+surf schools,1
+swimwear,1
+drive-thru bars,1
+police departments,1
+island pub,1
+mortgage brokers,1
+carpeting,1
+investing,1
+rest stops,1
+parenting classes,1
+laboratory testing,1
+diagnostic services,1
+bartending schools,1
+sailing,1
+golf equipment,1
+chimney cakes,1
+mobile phone repair,1
+opera & ballet,1
+radio stations,1
+tai chi,1
+beer hall,1
+gun/rifle ranges,1
+udon,1
+landscape architects,1
+tree services,1
+irrigation,1
+lawn services,1
+pumpkin patches,1
+pick your own farms,1
+tickets,1
+leather goods,1
+solar installation,1
+tax law,1
+wills,1
+trusts,1
+& probates,1
+estate planning law,1
+golf equipment shops,1
+bulgarian,1
+data recovery,1
+electronics repair,1
+high fidelity audio equipment,1
+hair loss centers,1
+clothing rental,1
+gutter services,1
+car share services,1
+fire protection services,1
+check cashing/pay-day loans,1
+currency exchange,1
+day camps,1
+mountain biking,1
+graphic design,1
+spiritual shop,1
+candle stores,1
+observatories,1
+family practice,1
+truck rental,1
+commercial truck repair,1
+signmaking,1
+health retreats,1
+door sales/installation,1
+glass & mirrors,1
+software development,1
+home inspectors,1
+damage restoration,1
+officiants,1
+kids hair salons,1
+club crawl,1
+formal wear,1
+bespoke clothing,1
+plus size fashion,1
+airport terminals,1
+hunting & fishing supplies,1
+outdoor gear,1
+hardware stores,1
+batting cages,1
+property management,1
+squash,1
+junk removal & hauling,1
+courthouses,1
+employment agencies,1
+middle schools & high schools,1
+elementary schools,1
+aircraft repairs,1
+airsoft,1
+hot tub & pool,1
+kitchen supplies,1
+pawn shops,1
+wildlife control,1
+pest control,1
+psychologists,1
+reiki,1
+occupational therapy,1
+aquarium services,1
+hats,1
+street art,1
+naturopathic/holistic,1
+pain management,1
+recording & rehearsal studios,1
+advertising,1
+kiosk,1
+bus tours,1
+beer tours,1
+print media,1
+home health care,1
+cosmetic surgeons,1
+medical transportation,1
+orthodontists,1
+minho,1
+churros,1
+estate liquidation,1
+university housing,1
+tanning beds,1
+catalan,1
+dance schools,1
+drywall installation & repair,1
+painters,1
+home window tinting,1
+ski schools,1
+home staging,1
+buddhist temples,1
+acne treatment,1
+metal fabricators,1
+commercial truck dealers,1
+foundation repair,1
+golf cart dealers,1
+animal physical therapy,1
+animal assisted therapy,1
+pet training,1
+holistic animal care,1
+private tutors,1
+transmission repair,1
+auto insurance,1
+insurance,1
+feng shui,1
+carpet installation,1
+skydiving,1
+studio taping,1
+used car dealers,1
+oaxacan,1
+lingerie,1
+video/film production,1
+videographers,1
+parking,1
+pet boarding,1
+czech/slovakian,1
+dry cleaning,1
+security services,1
+refinishing services,1
+grout services,1
+service stations,1
+engraving,1
+traditional clothing,1
+clowns,1
+costumes,1
+marinas,1
+boat dealers,1
+boat repair,1
+taxis,1
+synagogues,1
+cannabis collective,1
+meaderies,1
+divorce & family law,1
+immigration law,1
+personal injury law,1
